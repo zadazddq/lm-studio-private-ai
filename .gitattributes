@@ -1,0 +1,12 @@
+# Project-specific overrides
+# Generated on 2026-11-17
+# Configuration for git attributes
+*.png binary
+public/**/*.html linguist-vendored
+*.rs linguist-detectable
+
+*.yaml linguist-detectable=false
+public/*.html linguist-vendored
+
+src/**/*.rs linguist-detectable
+# eof d7958993
